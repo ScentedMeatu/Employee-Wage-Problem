@@ -11,17 +11,17 @@
 ```
 ## includes program to
 
--Check Employee is Present or Absent.
--Calculate Daily Employee Wage.
--Add Part time Employee & Wage.
--Calculating Wages for a Month.
--Calculate Wages till a condition of total working hours or days is reached for a month.
--A Class Method to Compute Employee Wage.
--Compute Employee Wage for multiple companies.
--Ability to save the Total Wage for Each Company.
--Ability to manage Employee Wage of multiple companies.
--Ability to manage Employee Wage of multiple companies using Interface approach.
--Refactor to have list of multiple companies to manage Employee Wage.
--Store the Daily Wage along with the Total Wage.
--Ability to get the Total Wage when queried by Company.
+- Check Employee is Present or Absent.
+- Calculate Daily Employee Wage.
+- Add Part time Employee & Wage.
+- Calculating Wages for a Month.
+- Calculate Wages till a condition of total working hours or days is reached for a month.
+- A Class Method to Compute Employee Wage.
+- Compute Employee Wage for multiple companies.
+- Ability to save the Total Wage for Each Company.
+- Ability to manage Employee Wage of multiple companies.
+- Ability to manage Employee Wage of multiple companies using Interface approach.
+- Refactor to have list of multiple companies to manage Employee Wage.
+- Store the Daily Wage along with the Total Wage.
+- Ability to get the Total Wage when queried by Company.
 
